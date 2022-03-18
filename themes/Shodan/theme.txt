@@ -1,4 +1,4 @@
-desktop-image: "bgnd_1024x768.png"
+desktop-image: "wallpaper.png"
 #desktop-color: "#000000"
 title-text: ""
 #title-color: "#67AC68"
@@ -46,7 +46,7 @@ terminal-font: "Unifont Regular 16"
 	text = "@TIMEOUT_NOTIFICATION_SHORT@"
     bar_style = "progress_border_*.png"
     highlight_style = "progress_bar_*.png"
-    
+
 }
 + label {
 	top = 75%
